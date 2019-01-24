@@ -1,2 +1,2 @@
 # FreeCodeCamp
-Free Code Camp Tests
+FreeCodeCamp Tests
