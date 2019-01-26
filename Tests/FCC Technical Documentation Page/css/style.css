@@ -1,0 +1,13 @@
+body {
+    font-family: Montserrat, sans-serif;
+}
+
+#navbar {
+    position: fixed;
+}
+
+@media (max-width: 650px) {
+    header {
+
+    }
+}
